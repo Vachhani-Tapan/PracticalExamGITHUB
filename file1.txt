@@ -1,1 +1,5 @@
 file 1 created
+
+
+this is for q2
+i have added this two lines
